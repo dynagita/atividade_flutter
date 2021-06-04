@@ -1,14 +1,16 @@
-# Atividade Flutter
+# atividade_previa
 
-Este app foi criado apenas como exercício para curso.
-O aplicativo possuí:
-<ul>
-  <li>View Principal</li>
-  <li>View Cálculo</li>
-</ul>
+A new Flutter project.
 
-<h2>View Principal</h2>
-Esta view possuí apenas uma tela com duas opções de escolha de cálculo à ser feito.
+## Getting Started
 
-<h2>View Cálculos</h2>
-Esta view é responsável por realizar o cálculo selecionado.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

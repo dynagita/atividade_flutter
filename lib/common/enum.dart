@@ -1,0 +1,1 @@
+enum TipoCalculo { Consumo, Imc }
